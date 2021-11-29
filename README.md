@@ -26,6 +26,8 @@ iii) Ridge Regression
 iv) Lasso Regression
 v) Elastic Net Regression
 
+## The project will be considered successiful  if a target of between 60% and 80%  is achieved for every model  created .
+
 # Dataset
 The dataset and glossary used for this project can be found here. [http://bit.ly/IndependentProjectWeek7Dataset] 
 
